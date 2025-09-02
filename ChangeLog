@@ -1,0 +1,1093 @@
+Changes for 8.0.0alpha1
+
+New features:
+
+Bug fixes:
+
+--------------------------------------------------------------------------------
+Changes for 7.4.3rc1
+
+New features:
+
+Bug fixes:
+
+--------------------------------------------------------------------------------
+Changes for 7.4.2
+
+7.4.2rc2 was released as 7.4.2 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 7.4.2rc2
+
+7.4.2rc1 was released as 7.4.2rc2 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 7.4.2rc1
+
+7.4.1 was released as 7.4.2rc1 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 7.4.1
+
+7.4.1rc1 was released as 7.4.1 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 7.4.1rc1
+
+7.4.0 was released as 7.4.1rc1 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 7.4.0
+
+7.4.0rc2 was released as 7.4.0 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 7.4.0rc2
+
+7.4.0rc1 was released as 7.4.0rc2 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 7.4.0rc1
+
+New features:
+...G...... [ZBXNEXT-9917] added pgsql.bgwriter key support for postgres 17 (sjurgensons)
+
+--------------------------------------------------------------------------------
+Changes for 7.4.0beta2
+
+7.4.0beta1 was released as 7.4.0beta2 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 7.4.0beta1
+
+7.4.0alpha1 was released as 7.4.0beta1 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 7.4.0alpha1
+
+New features:
+...G...... [ZBXNEXT-9508] added custom query enable parameter and path default (esneiders)
+
+--------------------------------------------------------------------------------
+Changes for 7.2.13rc1
+
+New features:
+
+Bug fixes:
+
+--------------------------------------------------------------------------------
+Changes for 7.2.12
+
+7.2.12rc1 was released as 7.2.12 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 7.2.12rc1
+
+7.2.11 was released as 7.2.12rc1 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 7.2.11
+
+7.2.11rc1 was released as 7.2.11 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 7.2.11rc1
+
+7.2.10 was released as 7.2.11rc1 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 7.2.10
+
+7.2.9 was released as 7.2.10 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 7.2.9
+
+7.2.8 was released as 7.2.9 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 7.2.8
+
+7.2.8rc1 was released as 7.2.8 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 7.2.8rc1
+
+7.2.7 was released as 7.2.8rc1 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 7.2.7
+
+7.2.7rc1 was released as 7.2.7 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 7.2.7rc1
+
+New features:
+...G...... [ZBXNEXT-9917] added pgsql.bgwriter key support for postgres 17 (sjurgensons)
+
+--------------------------------------------------------------------------------
+Changes for 7.2.6
+
+7.2.6rc1 was released as 7.2.6 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 7.2.6rc1
+
+7.2.5 was released as 7.2.6rc1 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 7.2.5
+
+7.2.5rc2 was released as 7.2.5 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 7.2.5rc2
+
+7.2.5rc1 was released as 7.2.5rc2 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 7.2.5rc1
+
+7.2.4 was released as 7.2.5rc1 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 7.2.4
+
+7.2.4rc1 was released as 7.2.4 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 7.2.4rc1
+
+7.2.3 was released as 7.2.4rc1 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 7.2.3
+
+7.2.3rc1 was released as 7.2.3 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 7.2.3rc1
+
+Bug fixes:
+...G...... [ZBX-25443] updated Go version requirement to 1.21 (esneiders)
+
+--------------------------------------------------------------------------------
+Changes for 7.2.2
+
+7.2.2rc1 was released as 7.2.2 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 7.2.2rc1
+
+7.2.1 was released as 7.2.2rc1 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 7.2.1
+
+7.2.1rc2 was released as 7.2.1 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 7.2.1rc2
+
+7.2.1rc1 was released as 7.2.1rc2 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 7.2.1rc1
+
+7.2.0 was released as 7.2.1rc1 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 7.2.0
+
+7.2.0rc3 was released as 7.2.0 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 7.2.0rc3
+
+7.2.0rc2 was released as 7.2.0rc3 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 7.2.0rc2
+
+7.2.0rc1 was released as 7.2.0rc2 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 7.2.0rc1
+
+New features:
+[ZBXNEXT-9533] added support of configuration parameters specified by environment variables (mprihodko)
+
+--------------------------------------------------------------------------------
+Changes for 7.2.0beta1
+
+7.2.0alpha1 was released as 7.2.0beta1 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 7.2.0alpha1
+
+New features:
+[ZBXNEXT-9281] added configurable item timeout support (dgoloscapov)
+
+--------------------------------------------------------------------------------
+Changes for 7.0.19rc1
+
+New features:
+
+Bug fixes:
+
+--------------------------------------------------------------------------------
+Changes for 7.0.18
+
+7.0.18rc2 was released as 7.0.18 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 7.0.18rc2
+
+7.0.18rc1 was released as 7.0.18rc2 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 7.0.18rc1
+
+7.0.17 was released as 7.0.18rc1 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 7.0.17
+
+7.0.17rc2 was released as 7.0.17 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 7.0.17rc2
+
+7.0.17rc1 was released as 7.0.17rc2 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 7.0.17rc1
+
+7.0.16 was released as 7.0.17rc1 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 7.0.16
+
+7.0.15 was released as 7.0.16 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 7.0.15
+
+7.0.14 was released as 7.0.15 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 7.0.14
+
+7.0.14rc1 was released as 7.0.14 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 7.0.14rc1
+
+7.0.13 was released as 7.0.14rc1 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 7.0.13
+
+7.0.13rc1 was released as 7.0.13 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 7.0.13rc1
+
+New features:
+...G...... [ZBXNEXT-9917] added pgsql.bgwriter key support for postgres 17 (sjurgensons)
+
+--------------------------------------------------------------------------------
+Changes for 7.0.12
+
+7.0.12rc1 was released as 7.0.12 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 7.0.12rc1
+
+7.0.11 was released as 7.0.12rc1 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 7.0.11
+
+7.0.11rc2 was released as 7.0.11 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 7.0.11rc2
+
+7.0.11rc1 was released as 7.0.11rc2 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 7.0.11rc1
+
+7.0.10 was released as 7.0.11rc1 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 7.0.10
+
+7.0.10rc1 was released as 7.0.10 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 7.0.10rc1
+
+7.0.9 was released as 7.0.10rc1 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 7.0.9
+
+7.0.9rc2 was released as 7.0.9 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 7.0.9rc2
+
+7.0.9rc1 was released as 7.0.9rc2 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 7.0.9rc1
+
+Bug fixes:
+...G...... [ZBX-25443] updated Go version requirement to 1.21 (esneiders)
+
+--------------------------------------------------------------------------------
+Changes for 7.0.8
+
+7.0.8rc2 was released as 7.0.8 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 7.0.8rc2
+
+7.0.8rc1 was released as 7.0.8rc2 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 7.0.8rc1
+
+7.0.7 was released as 7.0.8rc1 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 7.0.7
+
+7.0.7rc1 was released as 7.0.7 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 7.0.7rc1
+
+7.0.6 was released as 7.0.7rc1 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 7.0.6
+
+7.0.6rc1 was released as 7.0.6 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 7.0.6rc1
+
+7.0.5 was released as 7.0.6rc1 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 7.0.5
+
+7.0.5rc1 was released as 7.0.5 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 7.0.5rc1
+
+New features:
+[ZBXNEXT-9281] added configurable item timeout support (dgoloscapov)
+
+--------------------------------------------------------------------------------
+Changes for 7.0.4
+
+7.0.4rc1 was released as 7.0.4 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 7.0.4rc1
+
+Bug fixes:
+...G...... [ZBX-24619] updated atomic variables to be more safe (esneiders)
+...G...... [ZBX-24245] fixed invalid Zabbix agent 2 and plugin protocol log message (esneiders)
+
+--------------------------------------------------------------------------------
+Changes for 7.0.3
+
+7.0.3rc1 was released as 7.0.3 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 7.0.3rc1
+
+7.0.2 was released as 7.0.3rc1 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 7.0.2
+
+7.0.2rc2 was released as 7.0.2 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 7.0.2rc2
+
+7.0.2rc1 was released as 7.0.2rc2 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 7.0.2rc1
+
+7.0.1 was released as 7.0.2rc1 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 7.0.1
+
+7.0.1rc2 was released as 7.0.1 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 7.0.1rc2
+
+7.0.1rc1 was released as 7.0.1rc2 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 7.0.1rc1
+
+7.0.0 was released as 7.0.1rc1 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 7.0.0
+
+7.0.0rc3 was released as 7.0.0 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 7.0.0rc3
+
+7.0.0rc2 was released as 7.0.0rc3 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 7.0.0rc2
+
+7.0.0rc1 was released as 7.0.0rc2 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 7.0.0rc1
+
+New features:
+[ZBXNEXT-9168] replaced the software license with AGPL-3.0-only (Sasha)
+[ZBXNEXT-9039] added Go compiler version to Zabbix agent 2 plugin version output (mprihodko)
+[ZBX-24210] improve new conn creation concurrency, bump plugin support version (rzvejs)
+
+Bug fixes:
+[ZBX-24186] added support of arm64 to Makefile (mprihodko)
+[ZBX-24278] improved PostgreSQL autovacuum's count query (abrosimovs)
+
+--------------------------------------------------------------------------------
+Changes for 7.0.0beta3
+
+7.0.0beta2 was released as 7.0.0beta3 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 7.0.0beta2
+
+7.0.0beta1 was released as 7.0.0beta2 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 7.0.0beta1
+
+New features:
+[ZBX-17208] use new flags handling function package location (rzvejs)
+
+--------------------------------------------------------------------------------
+Changes for 7.0.0alpha9
+
+New features:
+[ZBX-23217] added cache mode parameter (esneiders)
+
+7.0.0alpha9 released without any changes
+
+--------------------------------------------------------------------------------
+Changes for 7.0.0alpha8
+
+7.0.0alpha8 released without any changes
+
+--------------------------------------------------------------------------------
+Changes for 7.0.0alpha7
+
+New features:
+[ZBX-22735] update plugin support version (rzvejs)
+[ZBXNEXT-7097] add pgsql.version metric (rzvejs)
+
+Bug fixes:
+[ZBX-22532] update flag handling to use common function from plugin-support (rzvejs)
+[ZBX-23599] fix windows properies build (rzvejs)
+
+--------------------------------------------------------------------------------
+Changes for 7.0.0alpha6
+
+7.0.0alpha6 released without any changes
+
+--------------------------------------------------------------------------------
+Changes for 7.0.0alpha5
+
+Bug fixes:
+[ZBX-23217] fixed TLS connections parameters and requirements (esneiders)
+
+--------------------------------------------------------------------------------
+Changes for 7.0.0alpha4
+
+7.0.0alpha4 released without any changes
+
+--------------------------------------------------------------------------------
+Changes for 7.0.0alpha3
+
+Bug fixes:
+[ZBX-22535] fixed Zabbix agent 2 configuration with empty values (esneiders)
+
+--------------------------------------------------------------------------------
+Changes for 7.0.0alpha2
+
+Bug fixes:
+[ZBX-22868] fixed defaults when hardcoded value is provided (esneiders)
+
+--------------------------------------------------------------------------------
+Changes for 7.0.0alpha1
+
+New features:
+[ZBXNEXT-8330] updated with support for defaults (esneiders)
+
+Bug fixes:
+[ZBX-22797] fixed client connection memory leak (esneiders)
+[ZBX-22373] updated go.mod/sum to allow mixing session and key parameter for Zabbix agent 2 items (esneiders)
+[ZBX-21886] added support for compiling under windows with official file properties (MVekslers)
+
+--------------------------------------------------------------------------------
+Changes for 6.4.22rc1
+
+New features:
+
+Bug fixes:
+
+--------------------------------------------------------------------------------
+Changes for 6.4.21
+
+6.4.21rc1 was released as 6.4.21 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 6.4.21rc1
+
+6.4.20 was released as 6.4.21rc1 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 6.4.20
+
+6.4.20rc1 was released as 6.4.20 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 6.4.20rc1
+
+6.4.19 was released as 6.4.20rc1 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 6.4.19
+
+6.4.19rc1 was released as 6.4.19 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 6.4.19rc1
+
+6.4.18 was released as 6.4.19rc1 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 6.4.18
+
+6.4.18rc1 was released as 6.4.18 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 6.4.18rc1
+
+6.4.17 was released as 6.4.18rc1 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 6.4.17
+
+6.4.17rc1 was released as 6.4.17 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 6.4.17rc1
+
+6.4.16 was released as 6.4.17rc1 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 6.4.16
+
+6.4.16rc2 was released as 6.4.16 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 6.4.16rc2
+
+6.4.16rc1 was released as 6.4.16rc2 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 6.4.16rc1
+
+6.4.15 was released as 6.4.16rc1 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 6.4.15
+
+6.4.15rc1 was released as 6.4.15 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 6.4.15rc1
+
+New features:
+[ZBXNEXT-9039] added Go compiler version to Zabbix agent 2 plugin version output (mprihodko)
+[ZBX-24210] improve new conn creation concurrency, bump plugin support version (rzvejs)
+
+Bug fixes:
+[ZBX-24186] added support of arm64 to Makefile (mprihodko)
+[ZBX-24278] improved PostgreSQL autovacuum's count query (abrosimovs)
+
+--------------------------------------------------------------------------------
+Changes for 6.4.14
+
+6.4.14rc1 was released as 6.4.14 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 6.4.14rc1
+
+6.4.13 was released as 6.4.14rc1 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 6.4.13
+
+6.4.13rc1 was released as 6.4.13 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 6.4.13rc1
+
+6.4.12 was released as 6.4.13rc1 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 6.4.12
+
+6.4.12rc1 was released as 6.4.12 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 6.4.12rc1
+
+6.4.11 was released as 6.4.12rc1 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 6.4.11
+
+6.4.11rc1 was released as 6.4.11 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 6.4.11rc1
+
+Bug fixes:
+[ZBXNEXT-8699] fixed connection leak (esneiders)
+[ZBX-17208] update flag handling to use common function from plugin-support (rzvejs)
+
+--------------------------------------------------------------------------------
+Changes for 6.4.10
+
+6.4.10rc1 was released as 6.4.10 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 6.4.10rc1
+
+6.4.9 was released as 6.4.10rc1 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 6.4.9
+
+6.4.9rc1 was released as 6.4.9 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 6.4.9rc1
+
+6.4.8 was released as 6.4.9rc1 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 6.4.8
+
+6.4.8rc1 was released as 6.4.8 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 6.4.8rc1
+
+New features:
+[ZBXNEXT-7097] add pgsql.version metric (rzvejs)
+
+Bug fixes:
+[ZBX-22735] updated plugin support (rzvejs)
+
+--------------------------------------------------------------------------------
+Changes for 6.4.7
+
+6.4.7rc1 was released as 6.4.7 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 6.4.7rc1
+
+New features:
+[ZBX-23217] added cache mode parameter (esneiders)
+
+Bug fixes:
+[ZBX-23217] fixed TLS connections parameters and requirements (esneiders)
+
+--------------------------------------------------------------------------------
+Changes for 6.4.6
+
+6.4.6rc1 was released as 6.4.6 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 6.4.5
+
+6.4.4 was released as 6.4.5 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 6.4.4
+
+6.4.4rc1 was released as 6.4.4 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 6.4.4rc1
+
+[ZBX-22868] fixed defaults when hardcoded value is provided (esneiders)
+
+--------------------------------------------------------------------------------
+Changes for 6.4.3
+
+6.4.3rc1 was released as 6.4.3 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 6.4.3rc1
+
+[ZBX-22797] fixed client connection memory leak (esneiders)
+[ZBX-21886] added support for compiling under windows with official file properties (MVekslers)
+
+--------------------------------------------------------------------------------
+Changes for 6.4.2
+
+[ZBXNEXT-8330] updated with support for defaults (esneiders)
+[ZBX-22373] updated go.mod/sum to allow mixing session and key parameter for Zabbix agent 2 items (esneiders)
+
+--------------------------------------------------------------------------------
+Changes for 6.4.1rc1
+
+6.4.0 was released as 6.4.1 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 6.4.0
+
+6.4.0beta6 released as 6.4.0 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 6.4.0beta6
+
+[ZBXNEXT-826] switched to Zabbix versioning (yurii)
+[ZBX-22061] fixed custom query read on empty parameter (esneiders)
+
+--------------------------------------------------------------------------------
+Changes for 6.0.42rc1
+
+New features:
+
+Bug fixes:
+
+--------------------------------------------------------------------------------
+Changes for 6.0.41
+
+6.0.41rc1 was released as 6.0.41 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 6.0.41rc1
+
+6.0.40 was released as 6.0.41rc1 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 6.0.40
+
+6.0.40rc1 was released as 6.0.40 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 6.0.40rc1
+
+6.0.39 was released as 6.0.40rc1 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 6.0.39
+
+6.0.39rc1 was released as 6.0.39 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 6.0.39rc1
+
+6.0.38 was released as 6.0.39rc1 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 6.0.38
+
+6.0.38rc1 was released as 6.0.38 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 6.0.38rc1
+
+Bug fixes:
+...G...... [ZBX-25443] updated Go version requirement to 1.21 (esneiders)
+
+--------------------------------------------------------------------------------
+Changes for 6.0.37
+
+6.0.37rc1 was released as 6.0.37 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 6.0.37rc1
+
+6.0.36 was released as 6.0.37rc1 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 6.0.36
+
+6.0.36rc1 was released as 6.0.36 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 6.0.36rc1
+
+6.0.35 was released as 6.0.36rc1 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 6.0.35
+
+6.0.35rc1 was released as 6.0.35 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 6.0.35rc1
+
+6.0.34 was released as 6.0.35rc1 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 6.0.34
+
+6.0.34rc2 was released as 6.0.34 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 6.0.34rc2
+
+6.0.34rc1 was released as 6.0.34rc2 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 6.0.34rc1
+
+Bug fixes:
+...G...... [ZBX-24619] updated atomic variables to be more safe (esneiders)
+...G...... [ZBX-24245] fixed invalid Zabbix agent 2 and plugin protocol log message (esneiders)
+
+--------------------------------------------------------------------------------
+Changes for 6.0.33
+
+6.0.33rc1 was released as 6.0.33 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 6.0.33rc1
+
+6.0.32 was released as 6.0.33rc1 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 6.0.32
+
+6.0.32rc1 was released as 6.0.32 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 6.0.32rc1
+
+6.0.31 was released as 6.0.32rc1 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 6.0.31
+
+6.0.31rc1 was released as 6.0.31 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 6.0.31rc1
+
+6.0.30 was released as 6.0.31rc1 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 6.0.30
+
+6.0.30rc1 was released as 6.0.30 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 6.0.30rc1
+
+New features:
+[ZBXNEXT-9039] added Go compiler version to Zabbix agent 2 plugin version output (mprihodko)
+[ZBX-24210] improve new conn creation concurrency, bump plugin support version (rzvejs)
+
+Bug fixes:
+[ZBX-24186] added support of arm64 to Makefile (mprihodko)
+[ZBX-24278] improved PostgreSQL autovacuum's count query (abrosimovs)
+
+--------------------------------------------------------------------------------
+Changes for 6.0.29
+
+6.0.29rc1 was released as 6.0.29 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 6.0.29rc1
+
+6.0.28 was released as 6.0.29rc1 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 6.0.28
+
+6.0.28rc1 was released as 6.0.28 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 6.0.28rc1
+
+6.0.27 was released as 6.0.28rc1 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 6.0.28
+
+6.0.27rc1 was released as 6.0.27 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 6.0.27rc1
+
+6.0.26 was released as 6.0.27rc1 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 6.0.27
+
+6.0.26rc1 was released as 6.0.26 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 6.0.26rc1
+
+Bug fixes:
+[ZBXNEXT-8699] fixed connection leak (esneiders)
+[ZBX-17208] update flag handling to use common function from plugin-support (rzvejs)
+
+--------------------------------------------------------------------------------
+Changes for 6.0.25
+
+6.0.25rc1 was released as 6.0.25 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 6.0.25rc1
+
+New features:
+[ZBX-23217] added cache mode parameter (esneiders)
+
+--------------------------------------------------------------------------------
+Changes for 6.0.24
+
+6.0.24rc1 was released as 6.0.24 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 6.0.24rc1
+
+6.0.23 was released as 6.0.24rc1 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 6.0.23
+
+6.0.23rc1 was released as 6.0.23 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 6.0.23rc1
+
+New features:
+[ZBXNEXT-7097] add pgsql.version metric (rzvejs)
+
+Bug fixes:
+[ZBX-22735] updated plugin support (rzvejs)
+
+--------------------------------------------------------------------------------
+Changes for 6.0.22
+
+6.0.22rc1 was released as 6.0.22 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 6.0.22rc1
+
+Bug fixes:
+[ZBX-23217] fixed TLS connections parameters and requirements (esneiders)
+
+--------------------------------------------------------------------------------
+Changes for 6.0.21
+
+6.0.21rc1 was released as 6.0.21 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 6.0.21rc1
+
+6.0.20 was released as 6.0.21rc1 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 6.0.20
+
+6.0.20rc1 was released as 6.0.20 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 6.0.20rc1
+
+6.0.19 was released as 6.0.20rc1 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 6.0.19
+
+6.0.19rc1 was released as 6.0.19 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 6.0.19rc1
+
+[ZBX-22868] fixed defaults when hardcoded value is provided (esneiders)
+
+--------------------------------------------------------------------------------
+Changes for 6.0.18
+
+6.0.18rc1 was released as 6.0.18 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 6.0.18rc1
+
+[ZBX-22797] fixed client connection memory leak (esneiders)
+[ZBX-21886] added support for compiling under windows with official file properties (MVekslers)
+
+--------------------------------------------------------------------------------
+Changes for 6.0.17
+
+[ZBXNEXT-8330] updated with support for defaults (esneiders)
+[ZBX-22373] updated go.mod/sum to allow mixing session and key parameter for Zabbix agent 2 items (esneiders)
+
+--------------------------------------------------------------------------------
+Changes for 6.0.16
+
+[ZBXNEXT-826] updated copyright year to 2023 (mprihodko)
+
+--------------------------------------------------------------------------------
+Changes for 6.0.15
+
+6.0.14 was released as 6.0.15 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 6.0.14
+
+6.0.13 was released as 6.0.14 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 6.0.13
+
+6.0.13rc1 was released as 6.0.13 without any changes
+
+--------------------------------------------------------------------------------
+Changes for 6.0.13rc1
+
+[ZBXNEXT-826] switched to Zabbix versioning (yurii)
+[ZBX-21206] changed connection to be per database (esneiders)
+
+--------------------------------------------------------------------------------
+Changes for 1.2.0
+
+initial release
+
+--------------------------------------------------------------------------------
